@@ -1,0 +1,6 @@
+- 🔭 I’m currently working on random garbage
+- 🌱 I’m currently learning python/html
+- 💬 Ask me about whatever you want, but I probably won't know
+- 📫 How to reach me: Discord: CozmoKitten#2374
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I am a figure skater
