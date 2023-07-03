@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on random garbage
-- 🌱 I’m currently learning python/html/css/js
+- 🌱 I’m currently learning python/html/css/js/mysqul
 - 💬 Ask me about whatever you want, but I probably won't know
 - 📫 How to reach me: Discord: CozmoKitten#2374
 - 😄 Pronouns: He/Him/His
