@@ -1,3 +1,4 @@
+wmt '27
 - 🌱 I’m currently learning python/html/css/js/mysqul
 - 💬 Ask me about whatever you want, but I probably won't know
 - 📫 How to reach me: Discord: ogriffin2640
